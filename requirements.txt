@@ -2,3 +2,4 @@ python-dotenv
 groq
 requests
 bs4
+gradio
